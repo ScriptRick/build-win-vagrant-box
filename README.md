@@ -1,3 +1,12 @@
+This repo has been copied from https://github.com/rgl/windows-vagrant
+This way I can make the changes that work for me without worrying about screwing up the original code.
+(Still a bit new to Git/Github)
+
+
+
+
+
+
 This builds Windows 2012R2/10/2016/2019 base Vagrant boxes using [Packer](https://www.packer.io/) and VirtualBox/Hyper-V/libvirt/qemu.
 
 
