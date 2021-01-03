@@ -161,6 +161,14 @@
       "script": "provision-openssh.ps1"
     },
     {
+      "type": "powershell",
+      "script": "enable-default-shell.ps1"
+    },
+    {
+      "type": "powershell",
+      "script": "install-chocolatey.ps1"
+    },
+    {
       "type": "windows-restart"
     },
     {
